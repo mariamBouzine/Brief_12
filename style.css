@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#img{
+    width: 100px;
+    height: 100px;
+}
+
+#Title{
+    text-align: center;
+    font-size: 60px;
+}
+#search{
+    display: none;
+}
+#select{
+    display: none;
+}
